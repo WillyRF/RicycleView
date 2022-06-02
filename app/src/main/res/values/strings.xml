@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecylerViewB</string>
+    <string name="simpan">Simpan</string>
+    <string-array name="jenisKelaminArray">
+        <item>Laki-Laki</item>
+        <item>Peremnpuan</item>
+    </string-array>
+    <string-array name="jpArray">
+        <item>SI/SI</item>
+        <item>TI/TI</item>
+        <item>IS/AC</item>
+        <item>IS/MG</item>
+    </string-array>
+    <string-array name="statusNikahArray">
+        <item>Belum Menikah</item>
+        <item>Menikah</item>
+        <item>Duda</item>
+        <item>Janda</item>
+    </string-array>
+</resources>
